@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web programming and Data Analytics using R
 - 💞️ I’m looking to collaborate on https://twitter.com/Suma_4113
-- 📫 How to reach me currently I dont have a sim 😢
 - 😄 Pronouns: Night Owl
 - ⚡ Fun fact: I love night Sky
 
