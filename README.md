@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suma4113
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web programming and Data Analytics using R
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on https://twitter.com/Suma_4113
 - 😄 Pronouns: Night Owl
 - ⚡ Fun fact: I love night Sky
